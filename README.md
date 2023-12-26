@@ -41,7 +41,7 @@
     ```
     python manage.py createsuperuser
     ```
-11. Создать приложение:
+11. Создать приложение (movies - название приложения):
     ```
     python manage.py startapp movies
     ```
